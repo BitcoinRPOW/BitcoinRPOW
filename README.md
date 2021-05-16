@@ -1,4 +1,6 @@
-### A bigger, faster, greener Bitcoin
+### BitcoinRPOW: A bigger, faster, greener Bitcoin
+
+https://bitcoinrpow.com/
 
 <!--
 **bitcoinrpow/bitcoinrpow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
